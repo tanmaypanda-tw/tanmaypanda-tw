@@ -19,5 +19,4 @@ end
 ```
 <!-- &include_all_commits=true -->
 
-|<a href="https://github.com/tanmaypanda-14/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tanmaypanda-14&show_icons=true&theme=dracula&hide_border=true" alt="Tanmay's github stats" /></a> |
-| ------------- |
+<a href="https://github.com/tanmaypanda-14/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tanmaypanda-14&show_icons=true&theme=dracula&hide_border=true" alt="Tanmay's github stats" /></a>
